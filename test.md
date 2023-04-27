@@ -5,3 +5,4 @@ Vierter Eintrag Toma Ristic Schüler 2
 Fünfter Eintrag Nicolas Hrdlicka Schüler 3
 Sechster Eintrag Marko Ekmedzic Schüler 1
 Siebter Eintrag Toma Ristic Schüler 2
+Achter Eintrag Nicolas Hrdlicka Schüler 3
